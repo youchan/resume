@@ -1,71 +1,72 @@
-Markdown Resumé
+Yoh Osaki
 ===============
 
-[Markdown](https://raw.github.com/mwhite/resume/master/resume.md) -> [PDF](https://raw.github.com/mwhite/resume/master/resume.pdf), [HTML](http://mwhite.github.com/resume), and more
-<http://github.com/mwhite/resume>
 
-Interests
+Summary
 ---------
 
-*   Creating beautiful resumés from simple Markdown documents
-
+Programmer with various experience. such as Web development, Data integration middleware, GUI, Robotics, 3D simulation.
+Especially good at meta programming and framework development.
 
 Work Experience
 ---------------
 
-*   **Word Processor** (Redmond, WA)
+*   **Web Develper**
 
-    *Junior Resumé Maker*, 2006 - 2007
+    *[Ubiregi inc.](https://ubiregi.com)*, 2014 -
 
-    -   Intermingled presentation and content
-    -   Styling was a pain, so either didn't do it or found a half-decent
-        template and didn't mess with it
+    - High transactional web API server using Ruby on Rails and MySQL.
+    - Dashboard application frontend as as made SPA.
+    - Management the developers team of 8-10 members.
 
-*   **\LaTeX\ + pdflatex**
+*   **Data integration middleware**
 
-    *Senior Resumé Maker*, 2008 - 2010
+    *DataSpider([Appresso K.K.](https://www.appresso.com))*, 2012 - 2014
 
-    -   Edited verbose \LaTeX\ documents in a text editor
-    -   Mixed content and presentation to achieve pixel-perfection
-    -   Installed and configured the unusual TeX setups required by the
-        best-looking \LaTeX\ resumés
+    - Hadoop integration
+    - [kintone](https://kintone.cybozu.com/jp/) integration
+    - Java
 
-*   **LinkedIn, StackOverflow Careers, vizualize.me, etc**
+*   **Graphical User Interface**
 
-    *Web Resumé Intern*, August 2010
+    *DataSpider Studio for Web*, 2009 - 2012
 
-    -   Entered data, adapting to different data models and formatting
-        limitations
-    -   Attempted to customize PDF exports and remove default resumé elements,
-        to no avail
+    - Graphical programming tool for data integration middleware(DataSpider).
+    - Silverlight, C#
+    - http://news.mynavi.jp/news/2011/11/02/033/
 
-*   **Markdown with Pandoc**
+    *AV equipment controll terminal*, 2013
 
-    *Resumé Architect*, February 2011 - present
+    - Serial communitaion
+    - Silverlight, C#
 
-    -   Write in one format (Markdown), convert to many formats (PDF, HTML, ODT,
-        DOCX, and more)
-    -   Style HTML output with CSS and PDF output with a custom \LaTeX\ header
-    -   Use a simple pre-processor to define per-format operations on the
-        Markdown input or its parts, such as moving contact information to the
-        top right of the page in both HTML and PDF output.
-    -   Use a text-based resumé when needed in a pinch
-    -   Use version control, including free hosting on Github
+    *Image viewer software bundled with digital camera*, 2002 - 2003
 
+    - Cross platform development on MacOS9 and MacOS X with using Darwin.
+    - C++
+
+    *Ritch Internet Application framework*, 2000 - 2002
+
+    - Visual Basic like EOD programming environment.
+    - http://www.s-cubed.jp/skml/SKMLtop.html
+
+*   **Robotics**
+
+    - Integrated development environment for 3D robot simulation.
+    - CORBA, Java3D, C++, Java
+    - https://unit.aist.go.jp/is/humanoid/m_projects/te-ma1_j.html
 
 Education
 ---------
 
-*   **Github University** (World Wide Web)
+*   **[University of Tsukuba](http://web.dendai.ac.jp/)**
 
-    *B.S. in Submodules*, May 2012
+    - Department of Electronics and Information Engineering.
+    - Mater's degree
+    - Intelligent system laboratory
+    - Study of multiple finger hand robot.
 
+*   **[Tokyo Denki University](http://web.dendai.ac.jp/)**
 
-Skills
-------
-
-*   Very experienced with Python, Markdown, \LaTeX
-
-*   Familiar with GNU Make, bash
-
-
+    - Department of Electrical Engineering.
+    - Bachelor degree
